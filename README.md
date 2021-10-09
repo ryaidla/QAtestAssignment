@@ -1,6 +1,7 @@
 # QAtestAssignment
 
 For running this tests you need to run such command in your command line
+
 C:/Python/python.exe c:/Desktop/example/test_case_n1.py
 
 here:
